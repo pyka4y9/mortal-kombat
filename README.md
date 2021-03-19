@@ -1,6 +1,6 @@
 # Mortal Kombat учебный проект Glo Academy
 ## Выполнил проект - Матвей Ежов
-### Технологии 
+### Технологии:
 - HTML
 - CSS
 - Normalize
